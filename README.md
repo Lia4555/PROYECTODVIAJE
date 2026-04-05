@@ -38,7 +38,7 @@ Aunque este enfoque ha permitido atender un volumen inicial de clientes y manten
 
 
 ## Pregunta problema ##
-¿Cómo puede D´Viaje, automatizar la logística de servicios y documentación para minimizar el margen de error?
+¿Cómo puede D´Viaje, automatisssszar la logística de servicios y documentación para minimizar el margen de error?
 
 
 ## Alcance  ##
