@@ -88,4 +88,4 @@ INSERT INTO Alertas (tipo_alerta, descripcion, fecha_limite, prioridad, id_usuar
 -- 16. Mantenimientos
 INSERT INTO Mantenimientos (fecha_mantenimiento, tipo_mantenimiento, descripcion, costo, taller_responsable, kilometraje_actual, proximo_mantenimiento, kilometraje_proximo_mantenimiento, id_vehiculo) VALUES
 ('2024-01-15', 'Preventivo', 'Cambio de aceite y filtros', 350000, 'Taller Central', 50000, '2024-07-15', 75000, 1),
-('2024-02-10', 'Rutinario', 'Revisión de frenos y suspensión', 280000, 'Taller Norte', 32000, '2024-08-10', 52000, 2);
+('2024-02-10', 'Rutinario', 'Revisión de frenos y suspensión', 280000, 'Taaller Norte', 32000, '2024-08-10', 52000, 2);
